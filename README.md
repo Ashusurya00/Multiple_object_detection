@@ -172,3 +172,4 @@ Streamlit for enabling rapid web-based deployment
 Try the live deployed app here 👇
 
 👉 Multiple Object & Animal Detection – Streamlit App
+   https://multipleobjectdetection-na98kpxahccwwv9al29uo8.streamlit.app/
